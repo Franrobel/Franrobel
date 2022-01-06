@@ -3,7 +3,7 @@
 
 
 
-<🧑‍🎓> I studied Full Stack development at Migracode, Barcelona.<br>
+<🧑‍🎓> I Learnt Full Stack development at Migracode, Barcelona.<br>
 
 <🧑‍💻> I'm currently working on enhancing the projects that I made so far, focusing in the front-end, so mostly I'm doing HTML, CSS, React and bootstrap. <br>
 
@@ -13,7 +13,6 @@
 
 <🔗>  Here it is my LinkedIn profile, if you feel like knowing more about me: <a href="https://www.linkedin.com/in/franrobelluati/">/franrobelluati</a><br>
 
-<🤙> Fun fact: Besides coding, I love music and I play guitar. Well, I don't know if it so funny. I am he as you are he as you are me and we are all together.
+<🤙> Fun fact: Besides coding, I love music and I play guitar. Well... I don't know if it so funny  😁 
 
-with each line of code, I'm not only learning a lot but also enjoying solving the problems that come up along the way. 
 
