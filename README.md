@@ -7,7 +7,7 @@
 
 <🧑‍💻> I'm currently working on enhancing the projects that I made so far, focusing in the front-end, so mostly I'm doing HTML, CSS, React and bootstrap. <br>
 
-<🧑‍🤝‍🧑> I’m looking to collaborate on challenging projects where I can contribute with the knowdledge that I achieved, and also to keep on learning to enhance my habilities.<br>
+<🧑‍🤝‍🧑> I’m looking to collaborate on challenging projects where I can contribute with the knowdledge that I achieved, and also to keep on learning to enhance my abilities.<br>
 
 <📫> How to reach me: <a href="mailto:franrobelluati@gmail.com">franrobelluati@gmail.com</a><br>
 
